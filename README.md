@@ -8,3 +8,8 @@ https://codesandbox.io
 
 Preact - Fast 3kB React alternative with the same modern API. Components & Virtual DOM.
 https://preactjs.com
+
+
+# Pages and Blogs to follow for Artificial Intelligence and Machine Learning
+
+https://web.facebook.com/aiunwrappedofficial/
