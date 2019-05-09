@@ -13,3 +13,6 @@ https://preactjs.com
 # Pages and Blogs to follow for Artificial Intelligence and Machine Learning
 
 https://web.facebook.com/aiunwrappedofficial/
+
+# Google dataset search for data scientists
+https://toolbox.google.com/datasetsearch?
