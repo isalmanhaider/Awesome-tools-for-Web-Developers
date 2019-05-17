@@ -16,3 +16,9 @@ https://web.facebook.com/aiunwrappedofficial/
 
 # Google dataset search for data scientists
 https://toolbox.google.com/datasetsearch?
+
+# A VM for Drupal, built with Ansible
+https://www.drupalvm.com/
+
+#Legendary Dev Tools
+https://www.gitkraken.com/
